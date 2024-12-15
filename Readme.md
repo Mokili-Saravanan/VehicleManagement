@@ -129,3 +129,4 @@ python manage.py runserver
 * Frontend: HTML, CSS, JavaScript
 * Database: MySQL
 
+
