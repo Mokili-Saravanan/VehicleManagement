@@ -35,7 +35,7 @@ The Vehicle Management System is a comprehensive web application designed to str
 ### Installation Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/vehicle-management-system.git
+git clone https://github.com/Mokili-Saravanan/VehicleManagement.git
 cd vehicle-management-system    
 ```
 
